@@ -40,7 +40,7 @@ More details about this dataset can be found at the ConvAI2 homepage at <http://
 We use the **train\_self_original\_no\_cands.txt**
 and
 **valid\_self\_original\_no\_cands.txt**
-for training / validating and testing. For data preparation, please refer to instructions and example files in `./data`. 
+for training / validating and testing. For data preparation, please refer to instructions and example files in [`./data`](https://github.com/vsharecodes/percvae/tree/master/data). 
 
 ### 3.How to run
 #### Training
@@ -56,7 +56,7 @@ or simply:
 python main.py -train
 ```
 
-where the **.yaml** file in `./config_api` contains most parameter settings.
+where the **.yaml** file in [`./config_api`](https://github.com/vsharecodes/percvae/tree/master/config_api) contains most parameter settings.
 Training should only take a few hours (it is tested on one Tesla P100 GPU).
 
 #### Inference
