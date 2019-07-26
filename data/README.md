@@ -26,7 +26,7 @@ No modification or transformation for the original data format.
 ### Auxiliary Data
 The `convai2_voacb_idf.txt` and `convai2_vocab.txt` are ready for direct usage, no more preparation needed.
 
-The `convai2_vocab.txt` is the **official** vocabulary list, which includes all words in the Persona-Chat dataset.
+The `convai2_vocab.txt` is the vocabulary list, which includes all words in the Persona-Chat dataset.
 
 The `convai2_voacb_idf.txt` includes the tf-idf weights for all words.
 
