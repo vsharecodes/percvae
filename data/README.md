@@ -12,7 +12,7 @@ In this folder, 5 data files are needed to run this code.
 ```
 
 ### Persona-Chat Dataset
-The `train.txt`, `valid.txt` and `test.txt` are example files to show the data format. Each file only contains two dialog sessions, which is not enough for model training.
+The `train.txt`, `valid.txt` and `test.txt` are example files to show the data format. Each file only contains two dialog sessions, which are not enough for model training.
 
 * Download the Persona-Chat Dataset from [ParlAI](https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/convai2).
 * Select **train\_self_original\_no\_cands.txt**
