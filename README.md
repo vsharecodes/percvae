@@ -9,7 +9,7 @@ Numpy
 NLTK
 pyyaml
 ```
-Conda virtual environment is recommended, for both python and cuda version. The following steps are based on the conda virtual environment:
+Conda virtual environment is recommended, for both python and cudnn version. The following steps are based on the conda virtual environment:
 
 First create conda virtual environment through:
 
