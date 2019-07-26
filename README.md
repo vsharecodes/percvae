@@ -43,7 +43,7 @@ and
 for training / validating and testing. For data preparation, please refer to instructions and example files in `./data`. 
 
 ### 3.How to run
-###Training
+#### Training
 
 ```
 python main.py -train 		        \
@@ -59,7 +59,7 @@ python main.py -train
 where the **.yaml** file in `./config_api` contains most parameter settings.
 Training should only take a few hours (it is tested on one Tesla P100 GPU).
 
-###Inference
+#### Inference
 
 ```
 python main.py -test     	              \
